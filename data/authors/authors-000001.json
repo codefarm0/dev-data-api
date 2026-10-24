@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Robert C. Martin",
+    "biography": "Software craftsman and author of several influential engineering books.",
+    "nationality": "American",
+    "books": [1]
+  },
+  {
+    "id": 2,
+    "name": "Martin Kleppmann",
+    "biography": "Computer scientist focused on distributed systems and data engineering.",
+    "nationality": "German",
+    "books": [2]
+  },
+  {
+    "id": 3,
+    "name": "Andrew Hunt",
+    "biography": "Engineer and author known for practical software development guidance.",
+    "nationality": "American",
+    "books": [3]
+  }
+]

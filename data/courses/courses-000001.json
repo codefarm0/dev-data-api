@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Java Fundamentals",
+    "description": "Core concepts for the Java language and JVM.",
+    "instructor": "Lena Shah",
+    "category": "programming",
+    "durationHours": 8,
+    "lessons": 12
+  },
+  {
+    "id": 2,
+    "title": "REST API Design",
+    "description": "Build clean, consistent APIs for internal and partner services.",
+    "instructor": "Mahesh Rao",
+    "category": "backend",
+    "durationHours": 6,
+    "lessons": 10
+  },
+  {
+    "id": 3,
+    "title": "Product Thinking",
+    "description": "Design product loops using customer, business, and technical signals.",
+    "instructor": "Aarohi Sen",
+    "category": "business",
+    "durationHours": 4,
+    "lessons": 8
+  }
+]

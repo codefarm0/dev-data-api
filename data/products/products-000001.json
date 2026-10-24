@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "category": "electronics",
+    "status": "ACTIVE",
+    "price": 1299.99
+  },
+  {
+    "id": 2,
+    "name": "Desk Lamp",
+    "category": "home",
+    "status": "ACTIVE",
+    "price": 49.99
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "category": "electronics",
+    "status": "ACTIVE",
+    "price": 149.00
+  },
+  {
+    "id": 4,
+    "name": "Office Chair",
+    "category": "furniture",
+    "status": "INACTIVE",
+    "price": 220.00
+  }
+]

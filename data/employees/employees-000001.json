@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "employeeNumber": "EMP-1001",
+    "firstName": "Aarav",
+    "lastName": "Sharma",
+    "departmentId": 10,
+    "title": "Senior Software Engineer",
+    "status": "ACTIVE",
+    "location": "Bengaluru"
+  },
+  {
+    "id": 2,
+    "employeeNumber": "EMP-1002",
+    "firstName": "Meera",
+    "lastName": "Verma",
+    "departmentId": 11,
+    "title": "Product Designer",
+    "status": "ACTIVE",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 3,
+    "employeeNumber": "EMP-1003",
+    "firstName": "Daniel",
+    "lastName": "Kim",
+    "departmentId": 12,
+    "title": "Operations Lead",
+    "status": "ACTIVE",
+    "location": "Pune"
+  },
+  {
+    "id": 4,
+    "employeeNumber": "EMP-1004",
+    "firstName": "Priya",
+    "lastName": "Nair",
+    "departmentId": 13,
+    "title": "Finance Analyst",
+    "status": "INACTIVE",
+    "location": "Delhi"
+  }
+]

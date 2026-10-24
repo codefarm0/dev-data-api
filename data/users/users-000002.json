@@ -1,0 +1,30 @@
+[
+  {
+    "id": 5,
+    "firstName": "Rohit",
+    "lastName": "Patel",
+    "email": "rohit.patel@example.test",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 6,
+    "firstName": "Ananya",
+    "lastName": "Iyer",
+    "email": "ananya.iyer@example.test",
+    "status": "ACTIVE"
+  },
+  {
+    "id": 7,
+    "firstName": "Lucas",
+    "lastName": "Martin",
+    "email": "lucas.martin@example.test",
+    "status": "INACTIVE"
+  },
+  {
+    "id": 8,
+    "firstName": "Sara",
+    "lastName": "Ali",
+    "email": "sara.ali@example.test",
+    "status": "ACTIVE"
+  }
+]

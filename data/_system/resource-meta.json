@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "resources": {
+    "users": {
+      "filePattern": "users-*.json",
+      "recordsPerFile": 1000,
+      "seeded": true
+    },
+    "products": {
+      "filePattern": "products-*.json",
+      "recordsPerFile": 1000,
+      "seeded": true
+    },
+    "orders": {
+      "filePattern": "orders-*.json",
+      "recordsPerFile": 1000,
+      "seeded": true
+    }
+  }
+}

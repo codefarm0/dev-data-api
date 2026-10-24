@@ -1,0 +1,30 @@
+[
+  {
+    "id": 5,
+    "name": "Noise Cancelling Headphones",
+    "category": "electronics",
+    "status": "ACTIVE",
+    "price": 299.99
+  },
+  {
+    "id": 6,
+    "name": "Standing Desk",
+    "category": "furniture",
+    "status": "ACTIVE",
+    "price": 650.00
+  },
+  {
+    "id": 7,
+    "name": "Coffee Grinder",
+    "category": "home",
+    "status": "ACTIVE",
+    "price": 89.50
+  },
+  {
+    "id": 8,
+    "name": "Ergonomic Mouse",
+    "category": "electronics",
+    "status": "INACTIVE",
+    "price": 39.00
+  }
+]

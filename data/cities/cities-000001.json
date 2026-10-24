@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Bengaluru",
+    "countryCode": "IN",
+    "region": "South India",
+    "postalCode": "560001"
+  },
+  {
+    "id": 2,
+    "name": "Hyderabad",
+    "countryCode": "IN",
+    "region": "South India",
+    "postalCode": "500033"
+  },
+  {
+    "id": 3,
+    "name": "Pune",
+    "countryCode": "IN",
+    "region": "West India",
+    "postalCode": "411045"
+  },
+  {
+    "id": 4,
+    "name": "New York",
+    "countryCode": "US",
+    "region": "Northeast",
+    "postalCode": "10001"
+  }
+]

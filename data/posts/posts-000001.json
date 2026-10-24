@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Spring Boot starter tips",
+    "body": "A quick guide to setting up a clean Spring Boot project for APIs.",
+    "authorId": 1,
+    "status": "PUBLISHED",
+    "tags": ["java", "spring", "api"]
+  },
+  {
+    "id": 2,
+    "title": "JSON file storage patterns",
+    "body": "Designing a simple and reliable file-backed repository for small internal tools.",
+    "authorId": 2,
+    "status": "DRAFT",
+    "tags": ["storage", "json", "design"]
+  },
+  {
+    "id": 3,
+    "title": "Working with dev datasets",
+    "body": "Creating realistic seed data for engineering demos and test automation.",
+    "authorId": 3,
+    "status": "PUBLISHED",
+    "tags": ["data", "testing"]
+  }
+]

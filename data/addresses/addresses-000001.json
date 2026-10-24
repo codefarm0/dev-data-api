@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "street": "12 MG Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "postalCode": "560001",
+    "country": "IN",
+    "addressType": "HOME"
+  },
+  {
+    "id": 2,
+    "street": "28 Jubilee Hills",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "postalCode": "500033",
+    "country": "IN",
+    "addressType": "WORK"
+  },
+  {
+    "id": 3,
+    "street": "88 Baner Road",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "postalCode": "411045",
+    "country": "IN",
+    "addressType": "HOME"
+  },
+  {
+    "id": 4,
+    "street": "17 Connaught Place",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "postalCode": "110001",
+    "country": "IN",
+    "addressType": "WORK"
+  }
+]

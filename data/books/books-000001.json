@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "isbn": "978-1-234567-00-1",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publisher": "Prentice Hall",
+    "genre": "software",
+    "publicationYear": 2008,
+    "available": true
+  },
+  {
+    "id": 2,
+    "isbn": "978-1-234567-01-8",
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "publisher": "O'Reilly",
+    "genre": "architecture",
+    "publicationYear": 2017,
+    "available": true
+  },
+  {
+    "id": 3,
+    "isbn": "978-1-234567-02-5",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "publisher": "Addison-Wesley",
+    "genre": "software",
+    "publicationYear": 1999,
+    "available": false
+  }
+]

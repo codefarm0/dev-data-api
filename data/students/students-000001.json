@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "firstName": "Karan",
+    "lastName": "Singh",
+    "email": "karan.singh@example.test",
+    "status": "ENROLLED",
+    "courseIds": [1, 2]
+  },
+  {
+    "id": 2,
+    "firstName": "Maya",
+    "lastName": "Gupta",
+    "email": "maya.gupta@example.test",
+    "status": "ACTIVE",
+    "courseIds": [2, 3]
+  },
+  {
+    "id": 3,
+    "firstName": "Leo",
+    "lastName": "Fernandez",
+    "email": "leo.fernandez@example.test",
+    "status": "GRADUATED",
+    "courseIds": [1]
+  }
+]

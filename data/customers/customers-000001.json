@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "firstName": "Aisha",
+    "lastName": "Rahman",
+    "email": "aisha.rahman@example.test",
+    "status": "ACTIVE",
+    "loyaltyTier": "GOLD"
+  },
+  {
+    "id": 102,
+    "firstName": "Oliver",
+    "lastName": "Hughes",
+    "email": "oliver.hughes@example.test",
+    "status": "ACTIVE",
+    "loyaltyTier": "SILVER"
+  },
+  {
+    "id": 103,
+    "firstName": "Nina",
+    "lastName": "Patel",
+    "email": "nina.patel@example.test",
+    "status": "ACTIVE",
+    "loyaltyTier": "PLATINUM"
+  },
+  {
+    "id": 104,
+    "firstName": "Ethan",
+    "lastName": "Brooks",
+    "email": "ethan.brooks@example.test",
+    "status": "INACTIVE",
+    "loyaltyTier": "BRONZE"
+  },
+  {
+    "id": 105,
+    "firstName": "Grace",
+    "lastName": "Nguyen",
+    "email": "grace.nguyen@example.test",
+    "status": "ACTIVE",
+    "loyaltyTier": "GOLD"
+  }
+]

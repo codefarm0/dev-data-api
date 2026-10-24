@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: dev-data-api
+server:
+  port: 8081
+devdataapi:
+  data-dir: ${DEVDATAAPI_DATA_DIR:./data}

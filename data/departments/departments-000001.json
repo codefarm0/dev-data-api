@@ -1,0 +1,30 @@
+[
+  {
+    "id": 10,
+    "name": "Engineering",
+    "code": "ENG",
+    "location": "Bengaluru",
+    "managerId": 1
+  },
+  {
+    "id": 11,
+    "name": "Design",
+    "code": "DSN",
+    "location": "Hyderabad",
+    "managerId": 2
+  },
+  {
+    "id": 12,
+    "name": "Operations",
+    "code": "OPS",
+    "location": "Pune",
+    "managerId": 3
+  },
+  {
+    "id": 13,
+    "name": "Finance",
+    "code": "FIN",
+    "location": "Delhi",
+    "managerId": 4
+  }
+]

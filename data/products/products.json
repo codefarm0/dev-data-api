@@ -1,0 +1,13 @@
+[ {
+  "id" : 1,
+  "name" : "Laptop Pro",
+  "category" : "electronics",
+  "status" : "ACTIVE",
+  "price" : 1299.99
+}, {
+  "id" : 2,
+  "name" : "Desk Lamp",
+  "category" : "home",
+  "status" : "ACTIVE",
+  "price" : 49.99
+} ]

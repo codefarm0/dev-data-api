@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "authorId": 2,
+    "body": "This is a very useful overview.",
+    "status": "APPROVED"
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "authorId": 3,
+    "body": "I would add a note about validation and error handling.",
+    "status": "PENDING"
+  },
+  {
+    "id": 3,
+    "postId": 2,
+    "authorId": 1,
+    "body": "This pattern works well for small internal apps.",
+    "status": "APPROVED"
+  }
+]

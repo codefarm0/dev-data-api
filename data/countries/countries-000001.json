@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "code": "IN",
+    "name": "India",
+    "region": "ASIA",
+    "currency": "INR"
+  },
+  {
+    "id": 2,
+    "code": "US",
+    "name": "United States",
+    "region": "NORTH_AMERICA",
+    "currency": "USD"
+  },
+  {
+    "id": 3,
+    "code": "GB",
+    "name": "United Kingdom",
+    "region": "EUROPE",
+    "currency": "GBP"
+  },
+  {
+    "id": 4,
+    "code": "DE",
+    "name": "Germany",
+    "region": "EUROPE",
+    "currency": "EUR"
+  }
+]

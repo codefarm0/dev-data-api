@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "customerId": 101,
+    "status": "PENDING",
+    "total": 299.99
+  },
+  {
+    "id": 2,
+    "customerId": 102,
+    "status": "SHIPPED",
+    "total": 149.50
+  },
+  {
+    "id": 3,
+    "customerId": 101,
+    "status": "DELIVERED",
+    "total": 899.00
+  },
+  {
+    "id": 4,
+    "customerId": 103,
+    "status": "CANCELLED",
+    "total": 75.00
+  }
+]
