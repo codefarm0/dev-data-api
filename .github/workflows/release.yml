@@ -1,0 +1,33 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Set up Java 25
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '25'
+          cache: gradle
+
+      - name: Build jar
+        run: ./gradlew clean bootJar -PreleaseVersion=${GITHUB_REF_NAME#v}
+
+      - name: Upload jar to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: build/libs/dev-data-api-${GITHUB_REF_NAME#v}.jar
+          generate_release_notes: true

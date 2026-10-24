@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'in.codefarm'
-version = '0.0.1-SNAPSHOT'
+version = project.findProperty('releaseVersion') ?: '0.0.1-SNAPSHOT'
 
 java {
 	toolchain {
@@ -28,4 +28,8 @@ dependencies {
 
 tasks.named('test') {
 	useJUnitPlatform()
+}
+
+tasks.named('bootJar') {
+	archiveFileName = "dev-data-api-${project.version}.jar"
 }
