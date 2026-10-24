@@ -5,7 +5,6 @@ hs_err_pid*
 replay_pid*
 .gradle/
 build/
-!gradle/wrapper/gradle-wrapper.jar
 out/
 
 # IDE / editor
@@ -24,6 +23,7 @@ out/
 *.zip
 *.tar.gz
 *.rar
+!gradle/wrapper/gradle-wrapper.jar
 
 # Local runtime data
 /tmp/
